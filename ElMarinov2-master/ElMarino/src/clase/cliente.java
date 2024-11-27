@@ -7,7 +7,7 @@ public class cliente {
 	private String direccion;
 	private String correo;
 	private String telefono;
-	private String contraseña;
+	
 	public cliente(String idcliente, String nombre, String apellido, String direccion, String correo, String telefono,
 			String contraseña) {
 	
