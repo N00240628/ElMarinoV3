@@ -8,7 +8,7 @@ public class Pedido {
 	private int ID_Repartidor;
 	private String Fecha;
 	private String TipoPago;
-	private double Total;
+	
 	private String EstadoPedido;
 	public Pedido(int iD_Pedido, int iD_Cliente, int iD_Menu, int iD_Repartidor, String fecha, String tipoPago,
 			double total, String estadoPedido) {
